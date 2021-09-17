@@ -4,7 +4,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="docker-clean-pkg-jmreis",
+    name="docker-clean",
     version="0.0.1",
     author="Jair Reis",
     author_email="jmsreis@protonmail.com",
