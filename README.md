@@ -5,6 +5,15 @@ remover imagens, containers e volumes. Tudo com a finalidade de auxiliar na limp
 
 O script executa uma limpeza na maquina de desenvolvimento.
 
+## Skills
+
+<div style="display: inline_block"><br>
+  <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python"/>
+  <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="docker"/>
+<div>
+<br>
+
+
 ## Installation
 
 Use [git](https://github.com/jmreis/getrfc.git).
