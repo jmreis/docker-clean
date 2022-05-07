@@ -5,13 +5,11 @@ remover imagens, containers e volumes. Tudo com a finalidade de auxiliar na limp
 
 O script executa uma limpeza na maquina de desenvolvimento.
 
+![project.gif](img/project.gif)
+
 ## Skills
 
-<div style="display: inline_block"><br>
-  <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python"/>
-  <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="docker"/>
-<div>
-<br>
+![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 
 ## Installation
