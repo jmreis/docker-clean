@@ -111,13 +111,13 @@ def main():
 	 	containers, volumes and networks 
 	 	in docker development environment.''')
 	parser.add_argument('--info', help="Show dockers infos", action='store_true')
-	parser.add_argument('--images', '-i', help="Cleaning all docker images",
+	parser.add_argument('--images', '-i', help="Remove all docker images",
 	    action='store_true')
-	parser.add_argument('--containers', '-c', help="Cleaning all docker containers",
+	parser.add_argument('--containers', '-c', help="Remove all docker containers",
 	    action='store_true')
-	parser.add_argument('--volumes', '-v', help="Cleaning all docker volumens",
+	parser.add_argument('--volumes', '-v', help="Remove all docker volumens",
 	    action='store_true')
-	parser.add_argument('--networks', '-n', help="Cleaning all networks",
+	parser.add_argument('--networks', '-n', help="Remove all networks",
 	    action='store_true')
 	parser.add_argument('--all', '-a', help="Cleaning all docker enviroment",
 	    action='store_true')
