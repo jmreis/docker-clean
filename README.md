@@ -14,10 +14,10 @@ O script executa uma limpeza na maquina de desenvolvimento.
 
 ## Installation
 
-Use [git](https://github.com/jmreis/getrfc.git).
+Use [git](https://github.com/jmreis/docker-clean.git).
 
 ```bash
-git clone https://github.com/jmreis/getrfc.git
+git clone https://github.com/jmreis/docker-clean.git
 ```
 
 ```bash
