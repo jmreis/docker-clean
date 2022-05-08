@@ -23,4 +23,4 @@ uninstall:
 	rm -rf $(DESTDIR)$(DOCDIR)
 
 test:
-	./docker-clean --help
+	python3 docker-clean.py --help

@@ -1,8 +1,8 @@
 name: getrfc
-maintainer: Jair Reis <jmsrdebian@protonmail.com>
+maintainer: Jair Reis <jmsreis@protonmail.com>
 license: MIT
-summary: RFC from terminal.
-homepage: https://github.com/jmreis/getrfc
+summary: Cleaning docker enviroment.
+homepage: https://github.com/jmreis/docker-clean
 commands:
   install:
     - make PREFIX="/usr" install DESTDIR="${BP_DESTDIR}"
