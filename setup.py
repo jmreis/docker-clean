@@ -8,7 +8,7 @@ setuptools.setup(
     version="0.0.1",
     author="Jair Reis",
     author_email="jmsreis@protonmail.com",
-    description="Script para limpar imagens, container e volumes docker.",
+    description="Script for clear the docker enviroment.",
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://github.com/jmreis/docker-clean",
